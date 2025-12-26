@@ -5,3 +5,5 @@ function add(){
     console.log(c);
 }
 add();
+
+console.log("latest update ");
