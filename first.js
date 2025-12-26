@@ -7,3 +7,7 @@ function add(){
 add();
 
 console.log("latest update ");
+
+// i  am fixing sum bug
+
+console.log("bug fixed");
